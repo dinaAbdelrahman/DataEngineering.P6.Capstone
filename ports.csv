@@ -1,0 +1,661 @@
+portofentry,Port Name,City,Flag
+ALC,ALCAN, AK             ,Valid
+ANC,ANCHORAGE, AK         ,Valid
+BAR,BAKER AAF - BAKER ISLAND, AK,Valid
+DAC,DALTONS CACHE, AK     ,Valid
+PIZ,DEW STATION PT LAY DEW, AK,Valid
+DTH,DUTCH HARBOR, AK      ,Valid
+EGL,EAGLE, AK             ,Valid
+FRB,FAIRBANKS, AK         ,Valid
+HOM,HOMER, AK                        ,Valid
+HYD,HYDER, AK             ,Valid
+JUN,JUNEAU, AK            ,Valid
+5KE,KETCHIKAN, AK,Valid
+KET,KETCHIKAN, AK         ,Valid
+MOS,MOSES POINT INTERMEDIATE, AK,Valid
+NIK,NIKISKI, AK           ,Valid
+NOM,NOM, AK               ,Valid
+PKC,POKER CREEK, AK       ,Valid
+ORI,PORT LIONS SPB, AK,Valid
+SKA,SKAGWAY, AK           ,Valid
+SNP,ST. PAUL ISLAND, AK,Valid
+TKI,TOKEEN, AK,Valid
+WRA,WRANGELL, AK          ,Valid
+HSV,MADISON COUNTY - HUNTSVILLE, AL,Valid
+MOB,MOBILE, AL            ,Valid
+LIA,LITTLE ROCK, AR (BPS),Valid
+ROG,ROGERS ARPT, AR,Valid
+DOU,DOUGLAS, AZ           ,Valid
+LUK,LUKEVILLE, AZ         ,Valid
+MAP,MARIPOSA AZ           ,,Valid
+NAC,NACO, AZ              ,Valid
+NOG,NOGALES, AZ           ,Valid
+PHO,PHOENIX, AZ           ,Valid
+POR,PORTAL, AZ,Valid
+SLU,SAN LUIS, AZ          ,Valid
+SAS,SASABE, AZ            ,Valid
+TUC,TUCSON, AZ            ,Valid
+YUI,YUMA, AZ               ,Valid
+AND,ANDRADE, CA           ,Valid
+BUR,BURBANK, CA,Valid
+CAL,CALEXICO, CA          ,Valid
+CAO,CAMPO, CA              ,Valid
+FRE,FRESNO, CA            ,Valid
+ICP,IMPERIAL COUNTY, CA   ,Valid
+LNB,LONG BEACH, CA         ,Valid
+LOS,LOS ANGELES, CA       ,Valid
+BFL,MEADOWS FIELD - BAKERSFIELD, CA,Valid
+OAK,OAKLAND, CA  ,Valid
+ONT,ONTARIO, CA,Valid
+OTM,OTAY MESA, CA          ,Valid
+BLT,PACIFIC, HWY. STATION,Valid
+PSP,PALM SPRINGS, CA,Valid
+SAC,SACRAMENTO, CA        ,Valid
+SLS,SALINAS, CA (BPS),Valid
+SDP,SAN DIEGO, CA,Valid
+SFR,SAN FRANCISCO, CA     ,Valid
+SNJ,SAN JOSE, CA          ,Valid
+SLO,SAN LUIS OBISPO, CA   ,Valid
+SLI,SAN LUIS OBISPO, CA (BPS),Valid
+SPC,SAN PEDRO, CA         ,Valid
+SYS,SAN YSIDRO, CA        ,Valid
+SAA,SANTA ANA, CA         ,Valid
+STO,STOCKTON, CA (BPS),Valid
+TEC,TECATE, CA            ,Valid
+TRV,TRAVIS-AFB, CA        ,Valid
+APA,ARAPAHOE COUNTY, CO,Valid
+ASE,ASPEN, CO #ARPT,Valid
+COS,COLORADO SPRINGS, CO,Valid
+DEN,DENVER, CO            ,Valid
+DRO,LA PLATA - DURANGO, CO,Valid
+BDL,BRADLEY INTERNATIONAL, CT,Valid
+BGC,BRIDGEPORT, CT        ,Valid
+GRT,GROTON, CT            ,Valid
+HAR,HARTFORD, CT          ,Valid
+NWH,NEW HAVEN, CT         ,Valid
+NWL,NEW LONDON, CT        ,Valid
+TST,NEWINGTON DATA CENTER TEST, CT,Valid
+WAS,WASHINGTON DC         ,,Valid
+DOV,DOVER AFB, DE,Valid
+DVD,DOVER-AFB, DE         ,Valid
+WLL,WILMINGTON, DE        ,Valid
+BOC,BOCAGRANDE, FL        ,Valid
+SRQ,BRADENTON - SARASOTA, FL,Valid
+CAN,CAPE CANAVERAL, FL    ,Valid
+DAB,DAYTONA BEACH INTERNATIONAL, FL,Valid
+FRN,FERNANDINA, FL        ,Valid
+FTL,FORT LAUDERDALE, FL   ,Valid
+FMY,FORT MYERS, FL        ,Valid
+FPF,FORT PIERCE, FL       ,Valid
+HUR,HURLBURT FIELD, FL,Valid
+GNV,J R ALISON MUNI - GAINESVILLE, FL,Valid
+JAC,JACKSONVILLE, FL      ,Valid
+KEY,KEY WEST, FL          ,Valid
+LEE,LEESBURG MUNICIPAL AIRPORT, FL,Valid
+MLB,MELBOURNE, FL,Valid
+MIA,MIAMI, FL             ,Valid
+APF,NAPLES, FL,Valid
+OPF,OPA LOCKA, FL,Valid
+ORL,ORLANDO, FL           ,Valid
+PAN,PANAMA CITY, FL       ,Valid
+PEN,PENSACOLA, FL         ,Valid
+PCF,PORT CANAVERAL, FL    ,Valid
+PEV,PORT EVERGLADES, FL   ,Valid
+PSJ,PORT ST JOE, FL       ,Valid
+SFB,SANFORD, FL           ,Valid
+SGJ,ST AUGUSTINE ARPT, FL,Valid
+SAU,ST AUGUSTINE, FL      ,Valid
+FPR,ST LUCIE COUNTY, FL,Valid
+SPE,ST PETERSBURG, FL     ,Valid
+TAM,TAMPA, FL             ,Valid
+WPB,WEST PALM BEACH, FL   ,Valid
+ATL,ATLANTA, GA           ,Valid
+BRU,BRUNSWICK, GA         ,Valid
+AGS,BUSH FIELD - AUGUSTA, GA,Valid
+SAV,SAVANNAH, GA          ,Valid
+AGA,AGANA, GU             ,Valid
+HHW,HONOLULU, HI          ,Valid
+OGG,KAHULUI - MAUI, HI,Valid
+KOA,KEAHOLE-KONA, HI      ,Valid
+LIH,LIHUE, HI             ,Valid
+CID,CEDAR RAPIDS/IOWA CITY, IA,Valid
+DSM,DES MOINES, IA,Valid
+BOI,AIR TERM. (GOWEN FLD) BOISE, ID,Valid
+EPI,EASTPORT, ID          ,Valid
+IDA,FANNING FIELD - IDAHO FALLS, ID,Valid
+PTL,PORTHILL, ID          ,Valid
+SPI,CAPITAL - SPRINGFIELD, IL,Valid
+CHI,CHICAGO, IL           ,Valid
+DPA,DUPAGE COUNTY, IL,Valid
+PIA,GREATER PEORIA, IL,Valid
+RFD,GREATER ROCKFORD, IL,Valid
+UGN,MEMORIAL - WAUKEGAN, IL,Valid
+GAR,GARY, IN              ,Valid
+HMM,HAMMOND, IN           ,Valid
+INP,INDIANAPOLIS, IN      ,Valid
+MRL,MERRILLVILLE, IN      ,Valid
+SBN,SOUTH BEND, IN,Valid
+ICT,MID-CONTINENT - WITCHITA, KS,Valid
+LEX,BLUE GRASS - LEXINGTON, KY,Valid
+LOU,LOUISVILLE, KY        ,Valid
+BTN,BATON ROUGE, LA       ,Valid
+LKC,LAKE CHARLES, LA      ,Valid
+LAK,LAKE CHARLES, LA (BPS),Valid
+MLU,MONROE, LA,Valid
+MGC,MORGAN CITY, LA       ,Valid
+NOL,NEW ORLEANS, LA       ,Valid
+BOS,BOSTON, MA            ,Valid
+GLO,GLOUCESTER, MA        ,Valid
+BED,HANSCOM FIELD - BEDFORD, MA,Valid
+LYN,LYNDEN, WA            ,Valid
+ADW,ANDREWS AFB, MD,Valid
+BAL,BALTIMORE, MD         ,Valid
+MKG,MUSKEGON, MD,Valid
+PAX,PATUXENT RIVER, MD    ,Valid
+BGM,BANGOR, ME            ,Valid
+BOO,BOOTHBAY HARBOR, ME   ,Valid
+BWM,BRIDGEWATER, ME       ,Valid
+BCK,BUCKPORT, ME          ,Valid
+CLS,CALAIS, ME   ,Valid
+CRB,CARIBOU, ME           ,Valid
+COB,COBURN GORE, ME       ,Valid
+EST,EASTCOURT, ME         ,Valid
+EPT,EASTPORT MUNICIPAL, ME,Valid
+EPM,EASTPORT, ME          ,Valid
+FOR,FOREST CITY, ME       ,Valid
+FTF,FORT FAIRFIELD, ME    ,Valid
+FTK,FORT KENT, ME         ,Valid
+HML,HAMIIN, ME            ,Valid
+HTM,HOULTON, ME           ,Valid
+JKM,JACKMAN, ME           ,Valid
+KAL,KALISPEL, MT          ,Valid
+LIM,LIMESTONE, ME         ,Valid
+LUB,LUBEC, ME             ,Valid
+MAD,MADAWASKA, ME         ,Valid
+POM,PORTLAND, ME          ,Valid
+RGM,RANGELEY, ME (BPS),Valid
+SBR,SOUTH BREWER, ME      ,Valid
+SRL,ST AURELIE, ME        ,Valid
+SPA,ST PAMPILE, ME        ,Valid
+VNB,VAN BUREN, ME         ,Valid
+VCB,VANCEBORO, ME         ,Valid
+AGN,ALGONAC, MI           ,Valid
+ALP,ALPENA, MI            ,Valid
+BCY,BAY CITY, MI          ,Valid
+DET,DETROIT, MI           ,Valid
+GRP,GRAND RAPIDS, MI,Valid
+GRO,GROSSE ISLE, MI       ,Valid
+ISL,ISLE ROYALE, MI       ,Valid
+MRC,MARINE CITY, MI       ,Valid
+MRY,MARYSVILLE, MI        ,Valid
+PTK,OAKLAND COUNTY - PONTIAC, MI,Valid
+PHU,PORT HURON, MI        ,Valid
+RBT,ROBERTS LANDING, MI   ,Valid
+SAG,SAGINAW, MI           ,Valid
+SSM,SAULT STE. MARIE, MI  ,Valid
+SCL,ST CLAIR, MI          ,Valid
+YIP,WILLOW RUN - YPSILANTI, MI,Valid
+BAU,BAUDETTE, MN          ,Valid
+CAR,CARIBOU MUNICIPAL AIRPORT, MN,Valid
+GTF,Collapsed into INT, MN,Valid
+INL,Collapsed into INT, MN,Valid
+CRA,CRANE LAKE, MN        ,Valid
+MIC,CRYSTAL MUNICIPAL AIRPORT, MN,Valid
+DUL,DULUTH, MN            ,Valid
+ELY,ELY, MN               ,Valid
+GPM,GRAND PORTAGE, MN     ,Valid
+SVC,GRANT COUNTY - SILVER CITY, MN,Valid
+INT,INTL FALLS, MN      ,Valid
+LAN,LANCASTER, MN         ,Valid
+MSP,MINN./ST PAUL, MN     ,Valid
+LIN,NORTHERN SVC CENTER, MN   ,Valid
+NOY,NOYES, MN             ,Valid
+PIN,PINE CREEK, MN        ,Valid
+48Y,PINECREEK BORDER ARPT, MN,Valid
+RAN,RAINER, MN            ,Valid
+RST,ROCHESTER, MN,Valid
+ROS,ROSEAU, MN            ,Valid
+SPM,ST PAUL, MN           ,Valid
+WSB,WARROAD INTL, SPB,Valid
+WAR,WARROAD, MN           ,Valid
+KAN,KANSAS CITY, MO       ,Valid
+SGF,SPRINGFIELD-BRANSON, MO,Valid
+STL,ST LOUIS, MO          ,Valid
+WHI,WHITETAIL, MT         ,Valid
+WHM,WILD HORSE, MT        ,Valid
+GPT,BILOXI REGIONAL, MS,Valid
+GTR,GOLDEN TRIANGLE LOWNDES CNTY, MS,Valid
+GUL,GULFPORT, MS          ,Valid
+PAS,PASCAGOULA, MS        ,Valid
+JAN,THOMPSON FIELD - JACKSON, MS,Valid
+BIL,BILLINGS, MT          ,Valid
+BTM,BUTTE, MT             ,Valid
+CHF,CHIEF MT, MT          ,Valid
+CTB,CUT BANK MUNICIPAL, MT,Valid
+CUT,CUT BANK, MT          ,Valid
+DLB,DEL BONITA, MT        ,Valid
+EUR,EUREKA, MT (BPS),Valid
+BZN,GALLATIN FIELD - BOZEMAN, MT,Valid
+FCA,GLACIER NATIONAL PARK, MT,Valid
+GGW,GLASGOW, MT           ,Valid
+GRE,GREAT FALLS, MT       ,Valid
+HVR,HAVRE, MT             ,Valid
+HEL,HELENA, MT            ,Valid
+LWT,LEWISTON, MT          ,Valid
+MGM,MORGAN, MT            ,Valid
+OPH,OPHEIM, MT            ,Valid
+PIE,PIEGAN, MT            ,Valid
+RAY,RAYMOND, MT           ,Valid
+ROO,ROOSVILLE, MT         ,Valid
+SCO,SCOBEY, MT            ,Valid
+SWE,SWEETGTASS, MT        ,Valid
+TRL,TRIAL CREEK, MT       ,Valid
+TUR,TURNER, MT            ,Valid
+WCM,WILLOW CREEK, MT      ,Valid
+CLT,CHARLOTTE, NC         ,Valid
+FAY,FAYETTEVILLE, NC,Valid
+MRH,MOREHEAD CITY, NC     ,Valid
+FOP,MORRIS FIELDS AAF, NC,Valid
+GSO,PIEDMONT TRIAD INTL AIRPORT, NC,Valid
+RDU,RALEIGH/DURHAM, NC    ,Valid
+SSC,SHAW AFB - SUMTER, NC,Valid
+WIL,WILMINGTON, NC        ,Valid
+AMB,AMBROSE, ND           ,Valid
+ANT,ANTLER, ND            ,Valid
+CRY,CARBURY, ND           ,Valid
+DNS,DUNSEITH, ND          ,Valid
+FAR,FARGO, ND             ,Valid
+FRT,FORTUNA, ND           ,Valid
+GRF,GRAND FORKS, ND       ,Valid
+HNN,HANNAH, ND            ,Valid
+HNS,HANSBORO, ND          ,Valid
+MAI,MAIDA, ND             ,Valid
+MND,MINOT, ND             ,Valid
+NEC,NECHE, ND             ,Valid
+NOO,NOONAN, ND            ,Valid
+NRG,NORTHGATE, ND         ,Valid
+PEM,PEMBINA, ND           ,Valid
+SAR,SARLES, ND            ,Valid
+SHR,SHERWOOD, ND          ,Valid
+SJO,ST JOHN, ND           ,Valid
+WAL,WALHALLA, ND          ,Valid
+WHO,WESTHOPE, ND          ,Valid
+WND,WILLISTON, ND         ,Valid
+OMA,OMAHA, NE             ,Valid
+LEB,LEBANON, NH           ,Valid
+MHT,MANCHESTER, NH,Valid
+PNH,PITTSBURG, NH         ,Valid
+PSM,PORTSMOUTH, NH        ,Valid
+BYO,BAYONNE, NJ           ,Valid
+CNJ,CAMDEN, NJ            ,Valid
+HOB,HOBOKEN, NJ           ,Valid
+JER,JERSEY CITY, NJ       ,Valid
+WRI,MC GUIRE AFB - WRIGHTSOWN, NJ,Valid
+MMU,MORRISTOWN, NJ,Valid
+NEW,NEWARK/TETERBORO, NJ  ,Valid
+PER,PERTH AMBOY, NJ       ,Valid
+ACY,POMONA FIELD - ATLANTIC CITY, NJ,Valid
+ALA,ALAMAGORDO, NM (BPS),Valid
+ABQ,ALBUQUERQUE, NM       ,Valid
+ANP,ANTELOPE WELLS, NM    ,Valid
+CRL,CARLSBAD, NM          ,Valid
+COL,COLUMBUS, NM          ,Valid
+CDD,CRANE LAKE - ST. LOUIS CNTY, NM,Valid
+DNM,DEMING, NM (BPS),Valid
+LAS,LAS CRUCES, NM        ,Valid
+LOB,LORDSBURG, NM (BPS),Valid
+RUI,RUIDOSO, NM,Valid
+STR,SANTA TERESA, NM      ,Valid
+RNO,CANNON INTL - RENO/TAHOE, NV,Valid
+FLX,FALLON MUNICIPAL AIRPORT, NV,Valid
+LVG,LAS VEGAS, NV         ,Valid
+REN,RENO, NV              ,Valid
+ALB,ALBANY, NY            ,Valid
+AXB,ALEXANDRIA BAY, NY    ,Valid
+BUF,BUFFALO, NY           ,Valid
+CNH,CANNON CORNERS, NY,Valid
+CAP,CAPE VINCENT, NY      ,Valid
+CHM,CHAMPLAIN, NY         ,Valid
+CHT,CHATEAUGAY, NY        ,Valid
+CLA,CLAYTON, NY           ,Valid
+FTC,FORT COVINGTON, NY    ,Valid
+LAG,LA GUARDIA, NY        ,Valid
+LEW,LEWISTON, NY          ,Valid
+MAS,MASSENA, NY           ,Valid
+MAG,MCGUIRE AFB, NY       ,Valid
+MOO,MOORES, NY            ,Valid
+MRR,MORRISTOWN, NY        ,Valid
+NYC,NEW YORK, NY          ,Valid
+NIA,NIAGARA FALLS, NY     ,Valid
+OGD,OGDENSBURG, NY        ,Valid
+OSW,OSWEGO, NY            ,Valid
+ELM,REGIONAL ARPT - HORSEHEAD, NY,Valid
+ROC,ROCHESTER, NY         ,Valid
+ROU,ROUSES POINT, NY      ,Valid
+SWF,STEWART - ORANGE CNTY, NY,Valid
+SYR,SYRACUSE, NY          ,Valid
+THO,THOUSAND ISLAND BRIDGE, NY,Valid
+TRO,TROUT RIVER, NY       ,Valid
+WAT,WATERTOWN, NY         ,Valid
+HPN,WESTCHESTER - WHITE PLAINS, NY,Valid
+WRB,WHIRLPOOL BRIDGE, NY,Valid
+YOU,YOUNGSTOWN, NY        ,Valid
+AKR,AKRON, OH             ,Valid
+ATB,ASHTABULA, OH         ,Valid
+CIN,CINCINNATI, OH        ,Valid
+CLE,CLEVELAND, OH         ,Valid
+CLM,COLUMBUS, OH          ,Valid
+LOR,LORAIN, OH            ,Valid
+MBO,MARBLE HEADS, OH      ,Valid
+SDY,SANDUSKY, OH          ,Valid
+TOL,TOLEDO, OH            ,Valid
+OKC,OKLAHOMA CITY, OK     ,Valid
+TUL,TULSA, OK,Valid
+AST,ASTORIA, OR           ,Valid
+COO,COOS BAY, OR          ,Valid
+HIO,HILLSBORO, OR,Valid
+MED,MEDFORD, OR           ,Valid
+NPT,NEWPORT, OR           ,Valid
+POO,PORTLAND, OR          ,Valid
+PUT,PUT-IN-BAY, OH        ,Valid
+RDM,ROBERTS FIELDS - REDMOND, OR,Valid
+ERI,ERIE, PA              ,Valid
+MDT,HARRISBURG, PA,Valid
+HSB,HARRISONBURG, PA      ,Valid
+PHI,PHILADELPHIA, PA      ,Valid
+PIT,PITTSBURG, PA         ,Valid
+AGU,AGUADILLA, PR         ,Valid
+BQN,BORINQUEN - AGUADILLO, PR,Valid
+JCP,CULEBRA - BENJAMIN RIVERA, PR,Valid
+ENS,ENSENADA, PR          ,Valid
+FAJ,FAJARDO, PR           ,Valid
+HUM,HUMACAO, PR           ,Valid
+JOB,JOBOS, PR             ,Valid
+MAY,MAYAGUEZ, PR          ,Valid
+PON,PONCE, PR             ,Valid
+PSE,PONCE-MERCEDITA, PR,Valid
+SAJ,SAN JUAN, PR          ,Valid
+VQS,VIEQUES-ARPT, PR,Valid
+PRO,PROVIDENCE, RI        ,Valid
+PVD,THEODORE FRANCIS - WARWICK, RI,Valid
+CHL,CHARLESTON, SC        ,Valid
+CAE,COLUMBIA, SC #ARPT,Valid
+GEO,GEORGETOWN, SC        ,Valid
+GSP,GREENVILLE, SC,Valid
+GRR,GREER, SC,Valid
+MYR,MYRTLE BEACH, SC,Valid
+SPF,BLACK HILLS, SPEARFISH,Valid
+HON,HOWES REGIONAL ARPT - HURON, SD,Valid
+SAI,SAIPAN, SPN           ,Valid
+TYS,MC GHEE TYSON - ALCOA, TN,Valid
+MEM,MEMPHIS, TN           ,Valid
+NSV,NASHVILLE, TN         ,Valid
+TRI,TRI CITY ARPT, TN,Valid
+ADS,ADDISON AIRPORT- ADDISON, TX,Valid
+ADT,AMISTAD DAM, TX       ,Valid
+ANZ,ANZALDUAS, TX,Valid
+AUS,AUSTIN, TX            ,Valid
+BEA,BEAUMONT, TX          ,Valid
+BBP,BIG BEND PARK, TX (BPS),Valid
+SCC,BP SPEC COORD. CTR, TX,Valid
+BTC,BP TACTICAL UNIT, TX   ,Valid
+BOA,BRIDGE OF AMERICAS, TX,Valid
+BRO,BROWNSVILLE, TX       ,Valid
+CRP,CORPUS CHRISTI, TX    ,Valid
+DAL,DALLAS, TX            ,Valid
+DLR,DEL RIO, TX           ,Valid
+DNA,DONNA, TX,Valid
+EGP,EAGLE PASS, TX        ,Valid
+ELP,EL PASO, TX           ,Valid
+FAB,FABENS, TX            ,Valid
+FAL,FALCON HEIGHTS, TX    ,Valid
+FTH,FORT HANCOCK, TX      ,Valid
+AFW,FORT WORTH ALLIANCE, TX,Valid
+FPT,FREEPORT, TX          ,Valid
+GAL,GALVESTON, TX         ,Valid
+HLG,HARLINGEN, TX         ,Valid
+HID,HIDALGO, TX           ,Valid
+HOU,HOUSTON, TX           ,Valid
+SGR,HULL FIELD, SUGAR LAND ARPT,Valid
+LLB,JUAREZ-LINCOLN BRIDGE, TX,Valid
+LCB,LAREDO COLUMBIA BRIDGE, TX,Valid
+LRN,LAREDO NORTH, TX      ,Valid
+LAR,LAREDO, TX            ,Valid
+LSE,LOS EBANOS, TX        ,Valid
+IND,LOS INDIOS, TX,Valid
+LOI,LOS INDIOS, TX        ,Valid
+MRS,MARFA, TX (BPS),Valid
+MCA,MCALLEN, TX           ,Valid
+MAF,ODESSA REGIONAL, TX,Valid
+PDN,PASO DEL NORTE,TX     ,Valid
+PBB,PEACE BRIDGE, NY      ,Valid
+PHR,PHARR, TX             ,Valid
+PAR,PORT ARTHUR, TX       ,Valid
+ISB,PORT ISABEL, TX       ,Valid
+POE,PORT OF EL PASO, TX   ,Valid
+PRE,PRESIDIO, TX          ,Valid
+PGR,PROGRESO, TX          ,Valid
+RIO,RIO GRANDE CITY, TX   ,Valid
+ROM,ROMA, TX              ,Valid
+SNA,SAN ANTONIO, TX       ,Valid
+SNN,SANDERSON, TX         ,Valid
+VIB,VETERAN INTL BRIDGE, TX,Valid
+YSL,YSLETA, TX            ,Valid
+CHA,CHARLOTTE AMALIE, VI  ,Valid
+CHR,CHRISTIANSTED, VI     ,Valid
+CRU,CRUZ BAY, ST JOHN,Valid
+FRK,FREDERIKSTED, VI      ,Valid
+STT,ST THOMAS, VI         ,Valid
+LGU,CACHE AIRPORT - LOGAN, UT,Valid
+SLC,SALT LAKE CITY, UT    ,Valid
+CHO,ALBEMARLE CHARLOTTESVILLE, VA,Valid
+DAA,DAVISON AAF - FAIRFAX CNTY, VA,Valid
+HOP,HOPEWELL, VA          ,Valid
+HEF,MANASSAS, VA #ARPT,Valid
+NWN,NEWPORT, VA           ,Valid
+NOR,NORFOLK, VA           ,Valid
+RCM,RICHMOND, VA          ,Valid
+ABS,ALBURG SPRINGS, VT    ,Valid
+ABG,ALBURG, VT            ,Valid
+BEB,BEEBE PLAIN, VT       ,Valid
+BEE,BEECHER FALLS, VT     ,Valid
+BRG,BURLINGTON, VT        ,Valid
+CNA,CANAAN, VT            ,Valid
+DER,DERBY LINE, VT (I-91) ,Valid
+DLV,DERBY LINE, VT (RT. 5),Valid
+ERC,EAST RICHFORD, VT     ,Valid
+HIG,HIGHGATE SPRINGS, VT  ,Valid
+MOR,MORSES LINE, VT       ,Valid
+NPV,NEWPORT, VT           ,Valid
+NRT,NORTH TROY, VT        ,Valid
+NRN,NORTON, VT            ,Valid
+PIV,PINNACLE ROAD, VT     ,Valid
+RIF,RICHFORT, VT          ,Valid
+STA,ST ALBANS, VT         ,Valid
+SWB,SWANTON, VT (BP - SECTOR HQ),Valid
+WBE,WEST BERKSHIRE, VT    ,Valid
+ABE,ABERDEEN, WA          ,Valid
+ANA,ANACORTES, WA         ,Valid
+BEL,BELLINGHAM, WA        ,Valid
+BLI,BELLINGHAM, WASHINGTON #INTL,Valid
+BLA,BLAINE, WA            ,Valid
+BWA,BOUNDARY, WA          ,Valid
+CUR,CURLEW, WA (BPS),Valid
+DVL,DANVILLE, WA          ,Valid
+EVE,EVERETT, WA           ,Valid
+FER,FERRY, WA             ,Valid
+FRI,FRIDAY HARBOR, WA     ,Valid
+FWA,FRONTIER, WA          ,Valid
+KLM,KALAMA, WA            ,Valid
+LAU,LAURIER, WA           ,Valid
+LON,LONGVIEW, WA          ,Valid
+MET,METALINE FALLS, WA    ,Valid
+MWH,MOSES LAKE GRANT COUNTY ARPT, WA,Valid
+NEA,NEAH BAY, WA          ,Valid
+NIG,NIGHTHAWK, WA         ,Valid
+OLY,OLYMPIA, WA           ,Valid
+ORO,OROVILLE, WA          ,Valid
+PWB,PASCO, WA             ,Valid
+PIR,POINT ROBERTS, WA     ,Valid
+PNG,PORT ANGELES, WA      ,Valid
+PTO,PORT TOWNSEND, WA     ,Valid
+SEA,SEATTLE, WA           ,Valid
+SPO,SPOKANE, WA           ,Valid
+SUM,SUMAS, WA             ,Valid
+TAC,TACOMA, WA            ,Valid
+PSC,TRI-CITIES - PASCO, WA,Valid
+VAN,VANCOUVER, WA         ,Valid
+AGM,ALGOMA, WI            ,Valid
+BAY,BAYFIELD, WI          ,Valid
+GRB,GREEN BAY, WI         ,Valid
+MNW,MANITOWOC, WI         ,Valid
+MIL,MILWAUKEE, WI         ,Valid
+MSN,TRUAX FIELD - DANE COUNTY, WI,Valid
+CHS,CHARLESTON, WV        ,Valid
+CLK,CLARKSBURG, WV        ,Valid
+BLF,MERCER COUNTY, WV,Valid
+CSP,CASPER, WY            ,Valid
+XXX,NOT REPORTED/UNKNOWN   ,,Not_Valid
+888,UNIDENTIFED AIR / SEAPORT,,Not_Valid
+UNK,UNKNOWN POE           ,,Not_Valid
+CLG,CALGARY, CANADA       ,Valid
+EDA,EDMONTON, CANADA      ,Valid
+YHC,HAKAI PASS, CANADA,Valid
+HAL,Halifax, CANADA,Valid
+MON,MONTREAL, CANADA      ,Valid
+OTT,OTTAWA, CANADA        ,Valid
+YXE,SASKATOON, CANADA,Valid
+TOR,TORONTO, CANADA       ,Valid
+VCV,VANCOUVER, CANADA     ,Valid
+VIC,VICTORIA, CANADA      ,Valid
+WIN,WINNIPEG, CANADA      ,Valid
+AMS,AMSTERDAM-SCHIPHOL, NETHERLANDS,Valid
+ARB,ARUBA, NETH ANTILLES  ,Valid
+BAN,BANKOK, THAILAND      ,Valid
+BEI,BEICA #ARPT, ETHIOPIA,Valid
+PEK,BEIJING CAPITAL INTL, PRC,Valid
+BDA,KINDLEY FIELD, BERMUDA,Valid
+BOG,BOGOTA, EL DORADO #ARPT  COLOMBIA,Valid
+EZE,BUENOS AIRES, MINISTRO PIST  ARGENTINA,Valid
+CUN,CANCUN, MEXICO,Valid
+CRQ,CARAVELAS, BA #ARPT  BRAZIL,Valid
+MVD,CARRASCO, URUGUAY,Valid
+DUB,DUBLIN, IRELAND       ,Valid
+FOU,FOUGAMOU #ARPT, GABON,Valid
+FBA,FREEPORT, BAHAMAS      ,Valid
+MTY,GEN M. ESCOBEDO, Monterrey  MX,Valid
+HMO,GEN PESQUEIRA GARCIA, MX,Valid
+GCM,GRAND CAYMAN, CAYMAN ISLAND,Valid
+GDL,GUADALAJARA, MIGUEL HIDAL MX,Valid
+HAM,HAMILTON, BERMUDA     ,Valid
+ICN,INCHON, SEOUL KOREA,Valid
+IWA,INVALID - IWAKUNI, JAPAN,Valid
+CND,KOGALNICEANU, ROMANIA,Valid
+LAH,LABUHA ARPT, INDONESIA,Valid
+DUR,LOUIS BOTHA, SOUTH AFRICA,Valid
+MAL,MANGOLE ARPT, INDONESIA,Valid
+MDE,MEDELLIN, COLOMBIA,Valid
+MEX,JUAREZ INTL, MEXICO CITY MX,Valid
+LHR,MIDDLESEX, ENGLAND,Valid
+NBO,NAIROBI, KENYA        ,Valid
+NAS,NASSAU, BAHAMAS       ,Valid
+NCA,NORTH CAICOS, TURK & CAIMAN,Valid
+PTY,OMAR TORRIJOS, PANAMA,Valid
+SPV,PAPUA, NEW GUINEA,Valid
+UIO,QUITO (MARISCAL SUCR), ECUADOR,Valid
+RIT,ROME, ITALY           ,Valid
+SNO,SAKON NAKHON #ARPT, THAILAND,Valid
+SLP,SAN LUIS POTOSI #ARPT, MEXICO,Valid
+SAN,SAN SALVADOR, EL SALVADOR,Valid
+SRO,SANTANA RAMOS #ARPT, COLOMBIA,Valid
+GRU,GUARULHOS INTL, SAO PAULO  BRAZIL,Valid
+SHA,SHANNON, IRELAND      ,Valid
+HIL,SHILLAVO, ETHIOPIA,Valid
+TOK,TOROKINA #ARPT, PAPUA  NEW GUINEA,Valid
+VER,VERACRUZ, MEXICO,Valid
+LGW,WEST SUSSEX, ENGLAND  ,Valid
+ZZZ,MEXICO Land, MEXICO,Not_Valid
+CHN,No PORT Code (CHN),,Not_Valid
+CNC,CANNON CORNERS, NY,Valid
+MAA,Abu Dhabi,,Valid
+AG0,MAGNOLIA, AR,Valid
+BHM,BAR HARBOR, ME,Valid
+BHX,BIRMINGHAM, AL,Valid
+CAK,AKRON, OH,Valid
+FOK,SUFFOLK COUNTY, NY,Valid
+LND,LANDER, WY,Valid
+MAR,MARFA, TX,Valid
+MLI,MOLINE, IL,Valid
+RIV,RIVERSIDE, CA,Valid
+RME,ROME, NY,Valid
+VNY,VAN NUYS, CA,Valid
+YUM,YUMA, AZ,Valid
+FRG,Collapsed (FOK) 06/15,,Not_Valid
+HRL,Collapsed (HLG) 06/15,,Not_Valid
+ISP,Collapsed (FOK) 06/15,,Not_Valid
+JSJ,Collapsed (SAJ) 06/15,,Not_Valid
+BUS,Collapsed (BUF) 06/15,,Not_Valid
+IAG,Collapsed (NIA) 06/15,,Not_Valid
+PHN,Collapsed (PHU) 06/15,,Not_Valid
+STN,Collapsed (STR) 06/15,,Not_Valid
+VMB,Collapsed (VNB) 06/15,,Not_Valid
+T01,Collapsed (SEA) 06/15,,Not_Valid
+PHF,No PORT Code (PHF),,Not_Valid
+DRV,No PORT Code (DRV),,Not_Valid
+FTB,No PORT Code (FTB),,Not_Valid
+GAC,No PORT Code (GAC),,Not_Valid
+GMT,No PORT Code (GMT),,Not_Valid
+JFA,No PORT Code (JFA),,Not_Valid
+JMZ,No PORT Code (JMZ),,Not_Valid
+NC8,No PORT Code (NC8),,Not_Valid
+NYL,No PORT Code (NYL),,Not_Valid
+OAI,No PORT Code (OAI),,Not_Valid
+PCW,No PORT Code (PCW),,Not_Valid
+WA5,No PORT Code (WAS),,Not_Valid
+WTR,No PORT Code (WTR),,Not_Valid
+X96,No PORT Code (X96),,Not_Valid
+XNA,No PORT Code (XNA),,Not_Valid
+YGF,No PORT Code (YGF),,Not_Valid
+5T6,No PORT Code (5T6),,Not_Valid
+60,No PORT Code (60),,Not_Valid
+SP0,No PORT Code (SP0),,Not_Valid
+W55,No PORT Code (W55),,Not_Valid
+X44,No PORT Code (X44),,Not_Valid
+AUH,No PORT Code (AUH),,Not_Valid
+RYY,No PORT Code (RYY),,Not_Valid
+SUS,No PORT Code (SUS),,Not_Valid
+74S,No PORT Code (74S),,Not_Valid
+ATW,No PORT Code (ATW),,Not_Valid
+CPX,No PORT Code (CPX),,Not_Valid
+MTH,No PORT Code (MTH),,Not_Valid
+PFN,No PORT Code (PFN),,Not_Valid
+SCH,No PORT Code (SCH),,Not_Valid
+ASI,No PORT Code (ASI),,Not_Valid
+BKF,No PORT Code (BKF),,Not_Valid
+DAY,No PORT Code (DAY),,Not_Valid
+Y62,No PORT Code (Y62),,Not_Valid
+AG,No PORT Code (AG),,Not_Valid
+BCM,No PORT Code (BCM),,Not_Valid
+DEC,No PORT Code (DEC),,Not_Valid
+PLB,No PORT Code (PLB),,Not_Valid
+CXO,No PORT Code (CXO),,Not_Valid
+JBQ,No PORT Code (JBQ),,Not_Valid
+JIG,No PORT Code (JIG),,Not_Valid
+OGS,No PORT Code (OGS),,Not_Valid
+TIW,No PORT Code (TIW),,Not_Valid
+OTS,No PORT Code (OTS),,Not_Valid
+AMT,No PORT Code (AMT),,Not_Valid
+EGE,No PORT Code (EGE),,Not_Valid
+GPI,No PORT Code (GPI),,Not_Valid
+NGL,No PORT Code (NGL),,Not_Valid
+OLM,No PORT Code (OLM),,Not_Valid
+.GA,No PORT Code (.GA),,Not_Valid
+CLX,No PORT Code (CLX),,Not_Valid
+CP,No PORT Code (CP),,Not_Valid
+FSC,No PORT Code (FSC),,Not_Valid
+NK,No PORT Code (NK),,Not_Valid
+ADU,No PORT Code (ADU),,Not_Valid
+AKT,No PORT Code (AKT),,Not_Valid
+LIT,No PORT Code (LIT),,Not_Valid
+A2A,No PORT Code (A2A),,Not_Valid
+OSN,No PORT Code (OSN),,Not_Valid
