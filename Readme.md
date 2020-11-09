@@ -105,3 +105,8 @@ Dimensions table:
 * State_Code: state code
 * Race: dominant race in that city (White, Hispanic or Latino, Asian, Black or African-American, or American Indian and Alaska Native)
 * Count: number of people of that race in the city
+
+
+## Next Step:
+
+Answer Complex Analtical queries based on the built new schema
